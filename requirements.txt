@@ -3,6 +3,7 @@ torch>=2.0.0
 torchvision>=0.15.0
 torchaudio>=2.0.0
 transformers>=4.30.0
+datasets>=2.20.0
 
 # Vector Database (Using GPU version for latency optimization if available, otherwise use faiss-cpu)
 faiss-cpu>=1.7.4
